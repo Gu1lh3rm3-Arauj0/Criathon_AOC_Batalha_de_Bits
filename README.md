@@ -18,7 +18,7 @@ O objetivo final é conquistar o melhor computador com base na sua missão, apli
 
 Link do Vídeo: 
 
-## Como o Jogo Funciona (Resumo)
+## Como o Jogo Funciona
 Cada jogador recebe:
 
   - Uma Carta de Objetivo
@@ -35,7 +35,7 @@ Se o componente estiver lotado:
 O vencedor é quem cumpre sua condição de vitória (ex.: dominar CPU + GPU). 
 
 ## Objetivo do Jogo
-- Ensinar AOC de forma prática, ajudando alunos a compreender:
+Ensinar AOC de forma prática, ajudando alunos a compreender:
 - Modelo de Von Neumann
 - Funcionamento da CPU
 - Hierarquia de memória
