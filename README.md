@@ -16,7 +16,7 @@ Os jogadores assumem o papel de engenheiros de hardware e precisam otimizar sua 
 
 O objetivo final é conquistar o melhor computador com base na sua missão, aplicando os conceitos estudados em AOC na prática do jogo.
 
-Link do Vídeo: 
+Link do Vídeo: [https://youtu.be/KoRwpiHIYtM](https://youtu.be/KoRwpiHIYtM)
 
 ## Como o Jogo Funciona
 Cada jogador recebe:
